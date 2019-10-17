@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_encrpt (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_encrpt (from `.symlinks/plugins/flutter_encrpt/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_encrpt:
+    :path: ".symlinks/plugins/flutter_encrpt/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_encrpt: 70751490039efb0edde2b5ed9da68bb5a7bf8b99
+
+PODFILE CHECKSUM: fe65614a47fae701ff87bfbe954b411d6e857c24
+
+COCOAPODS: 1.7.1
